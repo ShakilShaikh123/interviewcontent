@@ -1,0 +1,15 @@
+[
+    {
+      "question": "console.log('123')",
+      "answer": "The code will output 'Hello, world!'"
+    },
+    {
+      "question": "console.log('123')",
+      "answer": "The code will output '15'"
+    },
+    {
+      "question": "console.log('123')",
+      "answer": "The code will output the current time in the format 'hh:mm:ss AM/PM'"
+    }
+]
+  
